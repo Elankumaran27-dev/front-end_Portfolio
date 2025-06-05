@@ -8,15 +8,15 @@ const projectData = [
     description:
       "Built a responsive personal portfolio using React, Tailwind CSS, and Framer Motion. Includes smooth scrolling, animations, and reusable components.",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/yourusername/portfolio",
-    live: "https://your-portfolio.vercel.app/",
+    github: "https://github.com/Elankumaran27-dev/front-end_Portfolio",
+    live: "https://front-end-portfolio-murex-two.vercel.app/",
   },
   {
     title: "Grad School Website",
     description:
       "A clean educational landing page built using HTML, CSS, and Bootstrap. Showcases course details, testimonials, and responsive design.",
     tech: ["HTML", "CSS", "Bootstrap"],
-    github: "https://github.com/yourusername/grad-school",
+    github: "https://github.com/Elankumaran27-dev/Grad-School",
     live: "https://grad-school-azure.vercel.app/",
   },
   {
@@ -24,7 +24,7 @@ const projectData = [
     description:
       "Created a responsive dental care site with HTML, CSS, and JavaScript. Features include hero section, services, testimonials, and a contact form.",
     tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/yourusername/smilecare-website",
+    github: "https://github.com/Elankumaran27-dev/smilecare",
     live: "https://smilecare-eight.vercel.app/index.html",
   },
   {
@@ -32,7 +32,7 @@ const projectData = [
     description:
       "Responsive catering website built with React and Bootstrap. Features modern design, menu showcase, and interactive sections for food business promotion.",
     tech: ["React", "Bootstrap"],
-    github: "https://github.com/yourusername/tasty-cater",
+    github: "https://github.com/Elankumaran27-dev/tasty-cater",
     live: "https://tasty-cater.vercel.app/",
   },
 ];
