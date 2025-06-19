@@ -74,7 +74,7 @@ const Welcome = () => {
             </motion.button>
 
             <motion.a
-              href="/Elankumaran_Front-end_Developer.pdf"
+              href="/Elankumaran S B.E(MECH)2017 5.7_Front-end_Developer.pdf"
               download
               className="resume-btn"
               whileHover={{ scale: 1.05 }}
