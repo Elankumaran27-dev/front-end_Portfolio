@@ -43,9 +43,9 @@ const Footer = () => {
 
         <div className="footer-section">
           <h4 className="footer-title">Contact Info</h4>
-          <p><FaPhoneAlt /> +91 98765 43210</p>
-          <p><FaEnvelope /> elankumaran.dev@gmail.com</p>
-          <p><FaMapMarkerAlt /> Vriddhachalam, Tamil Nadu</p>
+          <p><FaPhoneAlt /> +91 80985 64048</p>
+          <p><FaEnvelope /> elankumaran95@gmail.com</p>
+          <p><FaMapMarkerAlt /> Chennai, Tamil Nadu</p>
         </div>
       </div>
 
